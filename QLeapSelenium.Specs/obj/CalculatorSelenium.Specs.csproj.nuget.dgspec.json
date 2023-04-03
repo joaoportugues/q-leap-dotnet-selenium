@@ -1,0 +1,101 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\matjo\\automation\\CalculatorSelenium\\CalculatorSelenium.Specs\\CalculatorSelenium.Specs.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\matjo\\automation\\CalculatorSelenium\\CalculatorSelenium.Specs\\CalculatorSelenium.Specs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\matjo\\automation\\CalculatorSelenium\\CalculatorSelenium.Specs\\CalculatorSelenium.Specs.csproj",
+        "projectName": "CalculatorSelenium.Specs",
+        "projectPath": "C:\\Users\\matjo\\automation\\CalculatorSelenium\\CalculatorSelenium.Specs\\CalculatorSelenium.Specs.csproj",
+        "packagesPath": "C:\\Users\\matjo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\matjo\\automation\\CalculatorSelenium\\CalculatorSelenium.Specs\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\matjo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.10.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.17.0, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[111.0.5563.6400, )"
+            },
+            "Selenium.WebDriverBackedSelenium": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "SpecFlow.NUnit": {
+              "target": "Package",
+              "version": "[3.7.13, )"
+            },
+            "SpecFlow.Plus.LivingDocPlugin": {
+              "target": "Package",
+              "version": "[3.7.10, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.13.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
